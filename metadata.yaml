@@ -1,0 +1,27 @@
+_repo: Blackie--amp--Sons-Catalogue---1886Books-for-Young-People_36411
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blackie & Son
+    alias: Blackie and Son
+    gutenberg_agent_id: '36757'
+    url: http://www.gutenberg.org/2009/agents/36757
+description: ''
+gutenberg_issued: '2011-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36411'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Publishers'' catalogs -- England -- London'
+- !lcc 'Z'
+- !lcsh 'Children''s literature -- Catalogs'
+- !lcsh 'Blackie & Son -- Catalogs'
+title: Blackie & Son's Books for Young People, Catalogue - 1886
+url: http://www.gutenberg.org/ebooks/36411
